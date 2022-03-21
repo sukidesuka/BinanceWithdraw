@@ -4,13 +4,13 @@
     "account": [
         {
             "nickname": "大号1",
-            "public_key": "XXXXXXXXXXXXXXXX",
-            "private_key": "XXXXXXXXXXXXXXXXX"
+            "api_key": "XXXXXXXXXXXXXXXX",
+            "secret_key": "XXXXXXXXXXXXXXXXX"
         },
         {
             "nickname": "",
-            "public_key": "XXXXXXXXXXXXXXXX",
-            "private_key": "XXXXXXXXXXXXXXXXX"
+            "api_key": "XXXXXXXXXXXXXXXX",
+            "secret_key": "XXXXXXXXXXXXXXXXX"
         }
     ],
     "address": [

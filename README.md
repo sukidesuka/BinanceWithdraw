@@ -21,7 +21,7 @@
 - `ip` 填写为服务器的ip地址或者域名
 - `port` 填写为服务器的port
 - `account` 币安的账户，是个列表，需要填3个参数
-    - `nickname` 昵称，可以省略，优先显示昵称，否则显示api密钥
+    - `nickname` 昵称，用于显示账户的名字
     - `api_key` 账户的api密钥
     - `secret_key` 账户的secret密钥
 - `address` 区块链地址，是个列表，需要填2个参数
